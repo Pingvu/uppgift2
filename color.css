@@ -1,0 +1,26 @@
+p {
+    color: aqua;
+    background-color: blueviolet;
+}
+h1.rubrik  {
+    font-family: Arial;
+    font-size: 22px;
+    color: aquamarine;
+    background-color: blueviolet;
+}
+p.text1 {
+    background-color: black;
+    color: yellow;
+    text-align: center;
+}
+p.text2 {
+    background-color: black;
+    color: yellow;
+    text-align: right;
+}
+a {
+    text-decoration: none;
+}
+p.text3 {
+    border: orchid 20px;
+}
